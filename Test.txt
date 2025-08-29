@@ -11,7 +11,11 @@ weg
 4
 4
 gw
+<<<<<<< HEAD
 Test2 eror22
+=======
+Test2 eror1
+>>>>>>> 1fa5454be76329595baaff20bd29cb33b8c35e5f
 we
 gwesdvs
 g
